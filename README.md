@@ -1,4 +1,4 @@
-## OSINT Enthusiast | CTF Player | Hacktorian
+## OSINT Enthusiast | Hacktorian | CTF Player
 
 ![IMG_0621](https://user-images.githubusercontent.com/117080369/210979211-0124bcb5-6cf5-4148-8968-3dddce362d87.png)
 
