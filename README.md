@@ -1,6 +1,6 @@
 ## OSINT Enthusiast | Hacktorian | CTF Player
+![B0neShad0w_Cover](https://user-images.githubusercontent.com/117080369/215498901-08717ef8-4cc0-4d8e-b1d5-c074e4c64bec.jpg)
 
-![B0neShad0w_Cover](https://user-images.githubusercontent.com/117080369/215498618-827cd478-65e9-4ac2-a464-280560d52461.jpg)
 
 <!--
 **B0neShAd0w/B0neShAd0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
