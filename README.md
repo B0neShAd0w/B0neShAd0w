@@ -1,4 +1,4 @@
-## OSINT Enthusiast | <a href="https://hacktoria.com/about/">Team Hacktoria</a>
+## OSINT Enthusiast | Team Hacktoria
 
 ![B0neShad0w_Cover](https://user-images.githubusercontent.com/117080369/215498901-08717ef8-4cc0-4d8e-b1d5-c074e4c64bec.jpg)
 
