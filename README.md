@@ -1,6 +1,7 @@
 ## OSINT Enthusiast | Team Hacktoria
 
-![B0neShad0w_Cover](https://user-images.githubusercontent.com/117080369/215498901-08717ef8-4cc0-4d8e-b1d5-c074e4c64bec.jpg)
+![IMG_0744](https://user-images.githubusercontent.com/117080369/225037689-667f1c54-d8b3-4065-8117-7b17121c00b4.JPG)
+
 
 <!--
 **B0neShAd0w/B0neShAd0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
