@@ -1,4 +1,4 @@
-## OSINT Enthusiast | Team Hacktoria
+## $\color{magenta}{TEAM\ HACKTORIA\ |\ OSINT\ ENTHUSIAST}$
 
 ![IMG_0744](https://user-images.githubusercontent.com/117080369/225037689-667f1c54-d8b3-4065-8117-7b17121c00b4.JPG)
 
